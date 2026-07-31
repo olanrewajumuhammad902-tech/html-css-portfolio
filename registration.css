@@ -1,0 +1,43 @@
+form{
+    margin: 35px auto;
+    width: 70%;
+    background-color: aqua;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+label,select,input,textarea{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+}
+
+h3{
+    text-align: center;
+    text-shadow: 2px;
+    color: brown;
+}
+
+input[type=radio],input[type=checkbox]{
+    width: auto;
+}
+
+input,select,textarea,button{
+    margin: 10px;
+}
+
+div{
+    margin-bottom: 10px;
+}
+
+.muhammad-btn{
+    width: 98%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    background-color: brown;
+    border: none;
+    font-size: bold;
+}
